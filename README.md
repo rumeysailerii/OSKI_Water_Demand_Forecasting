@@ -24,7 +24,7 @@ Rather than relying on subjective estimations, this tool provides a robust, math
 3. Prioritize infrastructure investments based on data-driven growth matrices.
 
 ## 💻 How to Run Locally
-1. Clone the repository: `git clone https://github.com/YourUsername/OSKI_Water_Demand_Forecasting.git`
+1. Clone the repository: `git clone https://github.com/rumeysailerii/OSKI_Water_Demand_Forecasting.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the application: `python -m streamlit run dashboard.py`
 
