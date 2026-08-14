@@ -29,5 +29,9 @@ Rather than relying on subjective estimations, this tool provides a robust, math
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the application: `python -m streamlit run dashboard.py`
 
+⚠️ Data Privacy Notice: Due to strict Non-Disclosure Agreements (NDA) and corporate data privacy policies of the Ordu Water and Sewerage Administration (OSKİ), the original datasets used in this project are strictly confidential and have not been uploaded to this repository. A mocked dummy_data.xlsx has been provided solely to demonstrate the functionality of the machine learning pipelines and the Streamlit dashboard.
 ---
 *Developed by Rumeysa Ileri as part of a comprehensive data science and strategic planning initiative.*
+
+
+
